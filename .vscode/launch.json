@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/fcs/Documents/git/iesb/aulas/aula02",
-      "program": "/home/fcs/Documents/git/iesb/aulas/aula02/build/Debug/outDebug",
+      "cwd": "/home/fcs/Documents/git/iesb/aulas/praticas/pratica03",
+      "program": "/home/fcs/Documents/git/iesb/aulas/praticas/pratica03/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
